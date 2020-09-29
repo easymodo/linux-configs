@@ -3,7 +3,7 @@ DisableOnKeyboardActivity=false
 KeyboardActivityTimeoutMs=200
 
 [parameters]
-AccelFactor=0.0259
+AccelFactor=0.0256116
 CircScrollDelta=5.7300000000000004
 CoastingFriction=100
 CoastingSpeed=35
@@ -15,7 +15,7 @@ HorizTwoFingerScroll=true
 MaxDoubleTapTime=80
 MaxSpeed=3.0
 MaxTapMove=4
-MinSpeed=1.0
+MinSpeed=0.965
 OneFingerTapButton=LeftButton
 PalmMinWidth=7
 PalmMinZ=98
