@@ -3,7 +3,7 @@ DisableOnKeyboardActivity=false
 KeyboardActivityTimeoutMs=200
 
 [parameters]
-AccelFactor=0.0255
+AccelFactor=0.0259
 CircScrollDelta=5.7300000000000004
 CoastingFriction=100
 CoastingSpeed=35
